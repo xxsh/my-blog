@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Sun Hao's Blog
 permalink: /about/
 ---
 
